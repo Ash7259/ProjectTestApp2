@@ -2,5 +2,6 @@
 {
     public class PageModel
     {
+        private const object ResponseCacheLocation;
     }
 }
